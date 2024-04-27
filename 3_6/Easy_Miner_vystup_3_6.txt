@@ -1,0 +1,16 @@
+Task: FFFFFF(*) => 199D26(*) and 331981(*) and 354C31(*) and 6CE255(*) and 869F50(*) and D59553(*) and DBCEEF(*)
+Rules count: 10
+Rules in Rule clipboard: 0
+Exported: 2024-02-19 16:47:37, Eduard Jurášek (jure01@vse.cz)
+Export mode: all task rules
+
+* → 331981(ADC8A2) [conf=0.75,supp=0.75]
+* → DBCEEF(B0FAAD) [conf=0.75,supp=0.75]
+* → 199D26(D11884) [conf=1,supp=1]
+* → 869F50(269963) [conf=1,supp=1]
+* → D59553(269963) [conf=1,supp=1]
+FFFFFF(FEFEFE) → 331981(ADC8A2) [conf=0.75,supp=0.75]
+FFFFFF(FEFEFE) → DBCEEF(B0FAAD) [conf=0.75,supp=0.75]
+FFFFFF(FEFEFE) → 199D26(D11884) [conf=1,supp=1]
+FFFFFF(FEFEFE) → 869F50(269963) [conf=1,supp=1]
+FFFFFF(FEFEFE) → D59553(269963) [conf=1,supp=1]
