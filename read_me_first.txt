@@ -1,0 +1,1 @@
+Tento repozitar obsahuje prepisy koverzaci s LLMs. Ve slozkach jsou take CSV soubory, jejicz prepis LLMs na vstupu dostaly zadany. V nekterych slozkach je k dispozici i CSV a vystup pro EasyMiner.
